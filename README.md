@@ -1,21 +1,36 @@
 <div align="center">
-  <h1>👋 Hello! I am Stankewich Anatoly.</h1>
-  <p><i>QA Engineer ☕</i></p>
-
-  <p>💡 I love automating boring stuff and breaking apps to make them better.</p>
-
-  <img src="https://media.giphy.com/media/developer-gif.gif"  width="300" />
+  <h1>👋 Hello! I'm Stankewich Anatoly.</h1>
+  <p><i>QA Engineer | Infrastructure-minded • Code-driven • Customer-focused</i></p>
+  <p>💡 I love automating boring stuff, breaking apps to make them better — and most importantly, <strong>caring deeply about the product and its users</strong>.</p>
 </div>
 
 ---
 
-## 💼 What can I do:
-- JavaScript, Java, C#, Kotlin, Rust (suitable for basic scripts and test scenarios)
-- Docker, Git, CI/CD pipelines
-- Grafana, Kibana, SQL, noSQL
+## 🛠 What I bring to the table:
+
+- **Product & Customer Mindset**  
+  I don’t just test features — I advocate for user experience, reliability, and real-world value. Every bug I catch is a step toward trust.
+
+- **Infrastructure-Thinking QA**  
+  I design tests with scalability, observability, and environment health in mind — from Docker to Kubernetes, logs to metrics.
+
+- **Code-Minded Tester**  
+  I write *maintainable*, *readable* test code — not just scripts. Clean architecture, version control, and CI/CD are non-negotiable.
+
+- **Pipeline Enthusiast**  
+  There’s joy in watching a well-oiled CI pipeline run: tests triggered, reports generated, feedback delivered — **smoothly and reliably**.
 
 ---
 
-## 📬 Contact me:
+## Tech I use:
+
+- **Languages**: JavaScript, Python, Java, C#, Kotlin, Rust *(for test automation & tooling)*  
+- **DevOps & CI/CD**: Docker, Git, GitHub/GitLab CI, Kubernetes  
+- **Observability & Data**: Grafana, Kibana, SQL, NoSQL  
+
+---
+
+## Let's connect:
+
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5EC.svg?logo=telegram&logoColor=white)](https://t.me/a_stankewich)  
 [![Email](https://img.shields.io/badge/Email-D1479D.svg?logo=envelope&logoColor=white)](mailto:dinoevich@yandex.ru)
