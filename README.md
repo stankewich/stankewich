@@ -22,7 +22,7 @@
 
 ---
 
-## Tech I use:
+## 🛠 Tech I use:
 
 - **Languages**: JavaScript, Python, Java, C#, Kotlin, Rust *(for test automation & tooling)*  
 - **DevOps & CI/CD**: Docker, Git, GitHub/GitLab CI, Kubernetes  
@@ -30,7 +30,7 @@
 
 ---
 
-## Let's connect:
+## 🛠 Let's connect:
 
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5EC.svg?logo=telegram&logoColor=white)](https://t.me/a_stankewich)  
 [![Email](https://img.shields.io/badge/Email-D1479D.svg?logo=envelope&logoColor=white)](mailto:dinoevich@yandex.ru)
